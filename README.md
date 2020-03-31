@@ -6,5 +6,6 @@
 ### [Assignments](./nowhere.md)
 
 ### General Resources 
+- [Node.js Guides](https://nodejs.org/en/docs/guides/)
 
 [Back to Top](#Top)
