@@ -1,9 +1,9 @@
 ###### Top
 # Coding Concepts Sprint 5 - Node.js
 
-* ### [Serverside Development Introduction](nowhere.md)
+* ### [Serverside Development Introduction](./nowhere.md)
 
-### [Assignments](./assignments.md)
+### [Assignments](./nowhere.md)
 
 ### General Resources 
 
