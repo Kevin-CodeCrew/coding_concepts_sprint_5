@@ -1,1 +1,1 @@
-You are nowwhere. This page just a stub. Check your links.
+You are nowhere. This page just a stub. Check your links.
