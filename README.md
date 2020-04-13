@@ -8,6 +8,7 @@ Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the
 * ### [Express](express.md)
 * ### [RESTful Web Services](restful_web.md)
 * ### [Express Router](express_router.md)
+* ### [MongoDB with Mongoose Introduction](mongo_mongoose_intro.md)
 
 ### [Assignments](assignment.md)
 
