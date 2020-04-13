@@ -48,13 +48,13 @@
 ### 20-04-10
 #### Spring Holiday
 
-### 20-04-10
+### 20-04-13
 #### Mongo Database - Create and Read
 - [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#Routes_primer)
 - Lecture Repo Link :  https://classroom.github.com/a/57gi3xAM
 - Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/2020-04-13-persistence-Kevin-CodeCrew
 
-### 20-04-09
+### 20-04-14
 #### Mongo Database - CRUD
 - [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB)
 <!-- - Lecture Repo Link :  
