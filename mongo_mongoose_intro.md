@@ -1,5 +1,5 @@
 ###### Top
-[Back to Concepts](README.md) | [Jump to Bottom](#Bottom) | [Resource]
+[Back to Concepts](README.md) | [Jump to Bottom](#Bottom) 
 ## Mongo DB
 
 
