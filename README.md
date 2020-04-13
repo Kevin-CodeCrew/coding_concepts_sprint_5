@@ -13,7 +13,7 @@ Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the
 
 ### General Resources 
 - [Node.js Guides](https://nodejs.org/en/docs/guides/)
-- [MDN Node JS + Express]()
-- [Express Documentation]()
+- [MDN Node JS + Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+- [Express Documentation](https://expressjs.com/en/guide/routing.html)
 
 [Back to Top](#Top)
