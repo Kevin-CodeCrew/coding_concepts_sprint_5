@@ -1,8 +1,3 @@
 ###### Top
-
-[Jump to Bottom](#Bottom)
-
-[Back to Concepts](README.md)
-
+[Back to Concepts](README.md) | [Jump to Bottom](#Bottom) | [Resource](#)
 ## Express
-[Resource](#)

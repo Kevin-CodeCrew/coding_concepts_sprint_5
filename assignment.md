@@ -1,11 +1,5 @@
 ###### Top
-
-[Jump to Bottom](#Bottom)
-
-[Back to Concepts](README.md)
-
-### [Classwork Videos](https://docs.google.com/document/d/1hhYXnFPt4UIWrgrnPRNFe1RXDV5SbeGoO2_uObdtb5E/edit?usp=sharing)
-### [Objectives](https://docs.google.com/spreadsheets/d/1dXOJhl43W9BSCV0r_AibrY80EDG-x_wS6Qtt2ILz7vA/edit?usp=sharing)
+[Back to Concepts](README.md) | [Jump to Bottom](#Bottom) | [Classwork Videos](https://docs.google.com/document/d/1hhYXnFPt4UIWrgrnPRNFe1RXDV5SbeGoO2_uObdtb5E/edit?usp=sharing) | [Objectives](https://docs.google.com/spreadsheets/d/1dXOJhl43W9BSCV0r_AibrY80EDG-x_wS6Qtt2ILz7vA/edit?usp=sharing)
 
 ### 20-04-06
 #### Node JS Introduction
