@@ -5,7 +5,6 @@ Node.js is an open-source and cross-platform JavaScript runtime environment. It 
 Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. 
 
 * ### [Server-side Development Introduction](node_intro.md)
-* ### [Express](express.md)
 * ### [RESTful Web Services + HTTP Requests](restful_web.md)
 * ### [Express Router](express_router.md)
 * ### [MongoDB with Mongoose Introduction](mongo_mongoose_intro.md)
