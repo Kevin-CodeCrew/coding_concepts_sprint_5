@@ -24,7 +24,7 @@
 - CW Video Walk through : https://youtu.be/qOZiTL3Dwko 
 
 ### 20-04-08
-#### RESTful Web Services
+#### RESTful Web Services + HTTP Requests
 - [Resource](https://docs.oracle.com/javaee/6/tutorial/doc/gijqy.html)
 - Lecture Repo Link :  https://classroom.github.com/a/n7m8zjZL
 - Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/20200408-nodejs-rest-Kevin-CodeCrew
@@ -44,6 +44,26 @@
 - CW Repo Link : https://classroom.github.com/a/KjHU3g-m
 - CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200409-express-router-cw-autumn-ragland
 - CW Video Walk through : https://youtu.be/bpVecxtYf9I
+
+### 20-04-10
+#### Spring Holiday
+
+### 20-04-10
+#### Mongo Database - Create and Read
+- [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes#Routes_primer)
+- Lecture Repo Link :  https://classroom.github.com/a/57gi3xAM
+- Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/2020-04-13-persistence-Kevin-CodeCrew
+
+### 20-04-09
+#### Mongo Database - CRUD
+- [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB)
+<!-- - Lecture Repo Link :  
+- Lecture Answer Repo : 
+- IC Repo Link : 
+- IC Answer Repo : 
+- CW Repo Link : 
+- CW Answer Repo : 
+- CW Video Walk through :  -->
 
 ###### Bottom
 [Back to Top](#Top)
