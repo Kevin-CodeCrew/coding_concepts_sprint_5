@@ -57,13 +57,13 @@
 ### 20-04-14
 #### Mongo Database - CRUD
 - [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Connecting_to_MongoDB)
-<!-- - Lecture Repo Link :  
-- Lecture Answer Repo : 
-- IC Repo Link : 
-- IC Answer Repo : 
-- CW Repo Link : 
-- CW Answer Repo : 
-- CW Video Walk through :  -->
+- Lecture Repo Link :  https://classroom.github.com/a/lWtQ0XcQ
+- Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-lecture-autumn-ragland
+- IC Repo Link : https://classroom.github.com/a/hIXV-T00
+- IC Answer Repo : https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-ic-autumn-ragland
+- CW Repo Link : https://classroom.github.com/a/13uF6udZ
+- CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-cw-autumn-ragland
+- CW Video Walk through : https://youtu.be/mflIcJa9GDI
 
 ###### Bottom
 [Back to Top](#Top)
