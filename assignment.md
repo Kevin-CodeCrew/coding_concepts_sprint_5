@@ -65,5 +65,13 @@
 - CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200414-mongo-crud-cw-autumn-ragland
 - CW Video Walk through : https://youtu.be/mflIcJa9GDI
 
+### 20-04-16
+#### MERN Intro - Create + Read All
+- Lecture Repo Link :  https://classroom.github.com/a/N2gJoNWb
+- Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/200416-mern-intro-lecture-autumn-ragland
+- CW Repo Link : https://classroom.github.com/a/CcPdWEle
+- CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200416-mern-intro-cw-autumn-ragland
+- CW Video Walk through : In Progress
+
 ###### Bottom
 [Back to Top](#Top)
