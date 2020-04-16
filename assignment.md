@@ -71,7 +71,7 @@
 - Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/200416-mern-intro-lecture-autumn-ragland
 - CW Repo Link : https://classroom.github.com/a/CcPdWEle
 - CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200416-mern-intro-cw-autumn-ragland
-- CW Video Walk through : In Progress
+- CW Video Walk through : https://youtu.be/UKoPeJ-Wo_A
 
 ###### Bottom
 [Back to Top](#Top)
