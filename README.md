@@ -9,7 +9,8 @@ Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the
 ### [Express Router](express_router.md)
 ### [MongoDB + Mongoose](mongo_mongoose_intro.md)
 ### [Full Stack Development](fullstack.md)
-### [Node.js Security/Authentication/JSON Web Tokens/Passport](./jwt_and_security.md)
+### [Node.js Security General](./node_security_general.md)
+### [Authentication/JSON Web Tokens/Passport](./jwt_and_security.md)
 ### [Assignments](assignment.md)
 
 ### General Resources 
