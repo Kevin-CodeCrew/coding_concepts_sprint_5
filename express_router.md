@@ -1,7 +1,7 @@
 ###### Top
 [Back to Concepts](README.md) | [Jump to Bottom](#Bottom) | [Resource](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)
 ## Express Router
-A `route` is a section of Express code that associates an HTTP verb (GET, POST, PUT, DELETE, etc.), a URL path/pattern, and a function that is called to handle that pattern.
+A `route` is a section of Express code that associates an HTTP verb (GET, POST, PUT, DELETE, etc.), a URL path/pattern, and a function that is called to handle that pattern for that endpoint.
 
 There are several ways to create routes. including the express.Router middleware. It allows us to group the route handlers for a particular part of a site together and access them using a common route-prefix.
 
