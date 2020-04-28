@@ -44,6 +44,6 @@ Passport is an authentication middleware used to authenticate requests. It allow
 ## Installing Dependencies we Need
 Before we can implement this on our server-side, we need to install some additional dependenices in addition to the common dependencies we use like `express`. The following command will get you all we need for the class. *Be sure* that you are in your `server` directory prior to installing these modules.  
 ```
-npm install --save bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt
+npm install bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt
 ```
 
