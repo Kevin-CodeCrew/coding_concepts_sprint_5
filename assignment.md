@@ -83,5 +83,13 @@
 - Lecture Repo Link : https://classroom.github.com/a/njLM-kPQ
 - Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/mern-auth-1-lecture-autumn-ragland
 
+### 20-04-28
+#### JWT + Encryption
+- Lecture Repo Link : https://classroom.github.com/a/fuvwwY5z
+- Lecture Answer Repo : https://github.com/cs-fullstack-2020-spring/200428-jwt-authorization-autumn-ragland
+- CW Repo Link :https://classroom.github.com/a/CAPIxgSd
+- CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200428-jwt-authorization-cw-autumn-ragland
+- CW Walk through : loading
+
 ###### Bottom
 [Back to Top](#Top)
