@@ -1,5 +1,6 @@
 # JWT/Passport and Security
 
+## JSON Web Tokens
 Many web applications and APIs use a form of authentication to protect resources and restrict their access only to verified users. This guide will walk you through how to implement authentication for an API using Json Web Tokens (JWTs) and Passport, an authentication middleware for Node.
 Understanding JSON Web Tokens
 
@@ -36,3 +37,6 @@ HMACSHA256(
 ```
 
 > *NOTE:* JWT, like any technology isn't hack proof. If someone intercepts the token being sent from the client to the server, they still can conceivably decrypt it so DO NOT send super secure info like social security numbers or similar!
+
+## Passport
+Passport is an authentication middleware used to authenticate requests. It allows developers to use different *strategies* for authenticating users, such as using a local database or connecting to single sign-on servers (SSO) through APIs.
