@@ -11,14 +11,14 @@ contained within is tampered in any way, it renders that token invalid. JWTs als
 
 A JWT is composed of three separate definitions: `header`, `payload`, and `signature`. In class we will deal mainly with the `payload` section. The `payload` section is where we can tuck any information we want in the JWT that we will extract later when deciding if the authenticating user should have access to some endpoint or other resource 
 
-`Header` : the header defines the type of algorithm used to verify the token and the type of token. In this example we are using 256 bit algorithm.
+`Header` : The header defines the type of algorithm used to verify the token and the type of token. In this example we are using 256 bit algorithm.
 ```
 {
    "type" : "JWT",
    "alg" : "HS256"
  }
 ```
-`Payload`: contains the claims. Claims are information about the user together with other additional metadata that we will extract later to determine if the request and the requesting user should be able to access whatever resource. *We will use this the most in class*
+`Payload`: The `payload` contains the claims. Claims are information about the user together with other additional metadata that we will extract later to determine if the request and the requesting user should be able to access whatever resource. *We will use this the most in class*
 ```
 {
    userName: 'Kevin',
@@ -32,7 +32,7 @@ A JWT is composed of three separate definitions: `header`, `payload`, and `signa
 HMACSHA256(
    base64UrlEncode(header) + "." +
    base64UrlEncode(payload),
-   secret
+   superSecretKeyPhraseString
  )
 ```
 
@@ -42,7 +42,8 @@ HMACSHA256(
 Passport is an authentication middleware used to authenticate requests. It allows developers to use different *strategies* for authenticating users, such as using a local database or connecting to single sign-on servers (SSO) through APIs.
 
 ## Installing Dependencies we Need
-Before we can implement this on our server-side, we need to install some additional dependenices in addition to the common dependencies we use like `express`. The following command will get you all we need for the class. *Be sure* that you are in your `server` directory prior to installing these modules.  
+Before we can implement this on our server-side, we need to install some additional dependenices in addition to the common dependencies we use like `express`. The following command will get you all we need for the class. *Be sure* that you are in your `server` directory prior to installing these modules.
+
 ```
 npm install bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt
 ```
