@@ -7,7 +7,7 @@ Understanding JSON Web Tokens
 JSON Web Token (JWT) is an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 
 JWTs are secure because they are digitally signed and if the information
-contained within is tampered in any way, it renders that token invalid. We’ll look at how this is made possible later on. J
+contained within is tampered in any way, it renders that token invalid. JWTs also support an expiration time so as a developer you can specify how frequently you want them to have to re-authenticate (seconds, hours, days, etc.). When a token that was originally valid expires, it is equally considered invalid and the user must re-authenticate.
 
 A JWT is composed of three separate definitions: `header`, `payload`, and `signature`. In class we will deal mainly with the `payload` section. The `payload` section is where we can tuck any information we want in the JWT that we will extract later when deciding if the authenticating user should have access to some endpoint or other resource 
 
