@@ -42,6 +42,7 @@ HMACSHA256(
 Passport is an authentication middleware used to authenticate requests. It allows developers to use different *strategies* for authenticating users, such as using a local database or connecting to single sign-on servers (SSO) through APIs.
 
 ## Installing Dependencies we Need
+Before we can implement this on our server-side, we need to install some additional dependenices in addition to the common dependencies we use like `express`. The following command will get you all we need for the class. *Be sure* that you are in your `server` directory prior to installing these modules.  
 ```
 npm install --save bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt
 ```
