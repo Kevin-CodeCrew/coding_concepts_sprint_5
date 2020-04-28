@@ -40,3 +40,9 @@ HMACSHA256(
 
 ## Passport
 Passport is an authentication middleware used to authenticate requests. It allows developers to use different *strategies* for authenticating users, such as using a local database or connecting to single sign-on servers (SSO) through APIs.
+
+## Installing Dependencies we Need
+```
+npm install --save bcrypt body-parser express jsonwebtoken mongoose passport passport-local passport-jwt
+```
+
