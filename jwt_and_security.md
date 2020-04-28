@@ -1,6 +1,6 @@
 # JWT/Passport and Security
 
-## JSON Web Tokens
+## JSON Web Tokens (JWT)
 Many web applications and APIs use a form of authentication to protect resources and restrict their access only to verified users. This guide will walk you through how to implement authentication for an API using Json Web Tokens (JWTs) and Passport, an authentication middleware for Node.
 Understanding JSON Web Tokens
 
