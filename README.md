@@ -13,7 +13,8 @@ Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the
 ### [Authentication/JSON Web Tokens/Passport](./jwt_and_security.md)
 ### [Assignments](assignment.md)
 
-### General Resources 
+### General Resources
+- [HTTP Stus Codes](https://httpstatuses.com/)
 - [Node.js Guides](https://nodejs.org/en/docs/guides/)
 - [MDN Node JS + Express](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 - [Express Documentation](https://expressjs.com/en/guide/routing.html)
