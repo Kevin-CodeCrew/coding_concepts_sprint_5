@@ -91,5 +91,15 @@
 - CW Answer Repo : https://github.com/cs-fullstack-2020-spring/200428-jwt-authorization-cw-autumn-ragland
 - CW Walk through : https://youtu.be/HiZ4cXQruGI
 
+### 20-04-29
+#### JWT + Encrpytion
+- Lecture Repo Link :
+- Lecture Answer Repo :
+
+### 20-04-30
+#### All Day Project
+- Project Repo Link :
+- Project Answer Repo :
+
 ###### Bottom
 [Back to Top](#Top)
