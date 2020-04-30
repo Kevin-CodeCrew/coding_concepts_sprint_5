@@ -94,12 +94,12 @@
 ### 20-04-29
 #### JWT + Encrpytion
 - Lecture Repo Link : https://classroom.github.com/a/QyXbQNiX
-- Lecture Answer Repo :
+- Lecture Answer Repo : https://github.com/cs-fullstack-master/200429-jwt-authorization
 
 ### 20-04-30
 #### All Day Project
 - Project Repo Link : https://classroom.github.com/a/4qliKyEM
-- Project Answer Repo :
+- Project Answer Repo : https://github.com/cs-fullstack-2020-spring/200430-jwt-auth-project-autumn-ragland
 
 ###### Bottom
 [Back to Top](#Top)
