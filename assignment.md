@@ -93,12 +93,12 @@
 
 ### 20-04-29
 #### JWT + Encrpytion
-- Lecture Repo Link :
+- Lecture Repo Link : https://classroom.github.com/a/QyXbQNiX
 - Lecture Answer Repo :
 
 ### 20-04-30
 #### All Day Project
-- Project Repo Link :
+- Project Repo Link : https://classroom.github.com/a/4qliKyEM
 - Project Answer Repo :
 
 ###### Bottom
